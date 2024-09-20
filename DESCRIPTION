@@ -1,6 +1,6 @@
 Package: roxytypes
 Title: Typed Parameter Tags for Integration with 'roxygen2'
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     c(
       person(
@@ -26,8 +26,8 @@ Enhances: roxylint
 Config/Needs/documentation: roxylint
 RoxygenNote: 7.3.1
 NeedsCompilation: no
-Packaged: 2024-02-28 18:25:38 UTC; root
+Packaged: 2024-09-19 23:35:16 UTC; root
 Author: Doug Kelkhoff [aut, cre]
 Maintainer: Doug Kelkhoff <doug.kelkhoff@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-02-29 20:30:02 UTC
+Date/Publication: 2024-09-20 12:10:02 UTC
