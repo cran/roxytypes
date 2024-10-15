@@ -1,7 +1,7 @@
-f9d896887e0258f549858526121b83dc *DESCRIPTION
+585f33ff53eeeddaacc71946da7a448d *DESCRIPTION
 0356821b6babdcdaed944d87ff5b4df1 *LICENSE
 5e5e364ec136323ceb74c582339ffdc0 *NAMESPACE
-500428905f4e2a71a05217ffb8604ad5 *NEWS.md
+134c60625bc4bebded0a3a6d49f7ca80 *NEWS.md
 0121ecb29a0ba2d4629c91df4138acae *R/convert.R
 adc8edce8271b8e15924225e2af6ae6d *R/convert_cli.R
 944fc385b03ce95b59a28b8d8a4343dc *R/convert_config.R
@@ -10,8 +10,8 @@ d9612e9e0e4281b225ee148731013728 *R/convert_re.R
 772a099f10162f1a6350e7e5ac04a6ab *R/state.R
 0feaff63db186ad58e409383eb7e17da *R/state_blocks.R
 c50df034d6fffc843be0fa048086cbf4 *R/state_config.R
-8ab6529f6398094303ae182499a945b0 *R/tag_typed.R
-3caa777c0c120b653d255e3a76849ec6 *R/tag_typedreturn.R
+e3160ef60c135c8651564dad059b6438 *R/tag_typed.R
+8379489f777448f0c5c3a6aaedef7645 *R/tag_typedreturn.R
 92c62633b0c215794291861de423c500 *R/utils.R
 9796b3a3a63bf969c086fc660a666369 *R/zzz.R
 1ae3a2db365fcffe7dd4b2bc58d4ae19 *README.md
